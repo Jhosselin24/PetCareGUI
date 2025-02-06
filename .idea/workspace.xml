@@ -4,34 +4,140 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc8d8e6-2931-471a-a415-4014a8f43b15" name="Changes" comment="" />
+    <list default="true" id="91a64d52-4698-4ae1-ad5a-38e1a75e80b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Cicloshop_GP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente_Dashboard.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente_Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConexionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gestionar_Usuarios.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gestionar_Usuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gestionar_Veterinarios.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gestionar_Veterinarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag1_Inicio.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag1_Inicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag2_Registro.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag2_Registro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag3_Login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag3_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag4_Admin.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag4_Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag4i1_Ingreso.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag4i1_Ingreso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag5i_Cliente.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag5i_Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag_Mascota.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag_Mascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag_Servicio.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag_Servicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag_Veterinario.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pag_Veterinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Usuario_Dashboard.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Usuario_Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Veterinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Veterinario_Dashboard.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Veterinario_Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/actualizar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/agregar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/anadir-al-carrito.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/boton-menos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/caja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/carpeta-abierta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/engranajes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/equipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/escoba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/factura.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/generarFactura.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/logo(Grande).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/logo(Mediano).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/logo(Pequenio).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/logo256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/monedas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/ojo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/returnIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/toggle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MainForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MainForm.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jhosselin24"
+  }
 }]]></component>
-  <component name="ProjectId" id="2rokNEZfcChAVMK8YUl2bPEo8EN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jhosselin24/PetCareGUI.git",
+    "accountId": "4bacc873-95c6-4bcf-bbea-861ed83f69a2"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eIaa1YVlhzxpHdzxAV1hGU5Eem" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "457",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/Downloads/Downloads/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/USER/IdeaProjects/PetCareGUI/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isaac\Desktop\a\GitHub\Cicloshop_GP\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,27 +149,24 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dfc8d8e6-2931-471a-a415-4014a8f43b15" name="Changes" comment="" />
-      <created>1737232774721</created>
+      <changelist id="91a64d52-4698-4ae1-ad5a-38e1a75e80b3" name="Changes" comment="" />
+      <created>1711594608323</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1737232774721</updated>
-      <workItem from="1737232775764" duration="3000" />
+      <updated>1711594608323</updated>
+      <workItem from="1711594609811" duration="605000" />
+      <workItem from="1738289867428" duration="1974000" />
+      <workItem from="1738707625370" duration="13100000" />
+      <workItem from="1738767876682" duration="40258000" />
+      <workItem from="1738814102411" duration="95000" />
+      <workItem from="1738815144684" duration="344000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

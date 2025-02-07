@@ -3,6 +3,7 @@ Descripción
 Este proyecto es un sistema de gestión para una clínica veterinaria. Permite administrar usuarios, clientes, veterinarios y citas médicas, además de gestionar los historiales de las mascotas.
 
 Características
+
 Autenticación y gestión de usuarios (Administrador, Cliente, Veterinario).
 Registro y gestión de citas.
 Historial médico de las mascotas.
@@ -15,6 +16,11 @@ Uso
 2. Registrar o modificar información de mascotas y clientes.
 3. Gestionar citas veterinarias.
 4. Consultar el historial médico de las mascotas.
+
+Tecnologías
+
+Backend: Intellij idea
+Base de Datos: MySQL
  
 Explicacion mas detallada
 
